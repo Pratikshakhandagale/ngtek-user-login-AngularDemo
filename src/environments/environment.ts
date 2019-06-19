@@ -5,17 +5,9 @@
 export const environment = {
   production: false,
   loginConfig: { 
-    googleClientId: '312478341535-t542no2kv0ffdskdshkreas4drf1ihc1.apps.googleusercontent.com',
-    fbAppId: '2037079629930934',
-    baseUrl: 'https://smart-citizen.tekdi.net'
+    googleClientId: 'xxxxxxxx2kv0ffdskdshkreas4drf1ihc1.apps.googleusercontent.com',
+    fbAppId: 'xxxx7930934',
+    baseUrl: 'https://your-site-url'
   }
 };
 
-/*
- * For easier debugging in development mode, you can import the following file
- * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
- *
- * This import should be commented out in production mode because it will have a negative impact
- * on performance if an error is thrown.
- */
-// import 'zone.js/dist/zone-error';  // Included with Angular CLI.
